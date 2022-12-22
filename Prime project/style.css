@@ -1,3 +1,8 @@
 .navbar-brand img {
     width: 130px;
 }
+
+.fluid {
+    width: 100%;
+    height: auto;
+}
