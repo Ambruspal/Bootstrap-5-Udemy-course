@@ -2,7 +2,7 @@
     width: 130px;
 }
 
-.fluid {
+.full-width {
     width: 100%;
     height: auto;
 }
@@ -13,7 +13,7 @@
 }
 
 .subscribe {
-    background-image: url(images/subscribe.jpeg);
+    background-image: url(img/subscribe.jpg);
     background-size: cover;
     background-position: center;
 }
