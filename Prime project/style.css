@@ -6,3 +6,19 @@
     width: 100%;
     height: auto;
 }
+
+.feature-item img {
+    width: 50px;
+    height: auto;
+}
+
+.subscribe {
+    background-image: url(images/subscribe.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.brand-icon img {
+    width: 150px;
+    height: auto;
+}
